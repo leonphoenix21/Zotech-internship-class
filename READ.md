@@ -1,1 +1,0 @@
-# Zotech-internship-classes
