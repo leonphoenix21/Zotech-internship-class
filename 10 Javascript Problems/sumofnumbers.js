@@ -1,9 +1,4 @@
-// The sum of numbers
 
-
-// function sum(a, b) {
-//     return a + b;
-// }
 
 function sum(a, b, c, d, e) {
     let total = a + b + c + d + e
@@ -13,9 +8,9 @@ function sum(a, b, c, d, e) {
 }
 
 
-price1 = [67]
+price1 = 67
 price2 = 45
 
-let total = sum(price1, price2, 12, 43, 56)
+let total = sum(price1, price2, 23, 23, 23)
 
 console.log(total)
